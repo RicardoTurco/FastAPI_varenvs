@@ -83,7 +83,7 @@ ipython_config.py
 .env_test
 .env_local
 .env_prd
-.env
+
 .venv
 env/
 venv/
